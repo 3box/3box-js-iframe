@@ -9,7 +9,10 @@ const IPFS_OPTIONS = {
   EXPERIMENTAL: {
     pubsub: true
   },
-  preload: { enabled: false }
+  preload: { enabled: false },
+  config: {
+    Bootstrap: [ ]
+  }
 }
 
 CacheServerStart(CACHE_OPTIONS)
