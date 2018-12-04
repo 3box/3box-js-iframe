@@ -1,6 +1,6 @@
 {
   "name": "3box-js-iframe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run components and store of 3box-js library in iframe",
   "main": "src/index.js",
   "scripts": {
