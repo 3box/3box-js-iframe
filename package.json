@@ -1,6 +1,6 @@
 {
   "name": "3box-js-iframe",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Run components and store of 3box-js library in iframe",
   "main": "src/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "dependencies": {
     "@babel/runtime": "^7.1.2",
     "ipfs-postmsg-proxy": "^3.1.1",
-    "orbit-db-cache-postmsg-proxy": "^0.1.0"
+    "orbit-db-cache-postmsg-proxy": "^0.1.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
